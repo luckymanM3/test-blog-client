@@ -1,0 +1,12 @@
+export const HOME = "/";
+export const LOGINREGISTER = "/testweb";
+export const LOGIN = "/login";
+export const LOGOUT = "/logout";
+export const REGISTER = "/register";
+export const BLOGS = "/blogs";
+export const BLOG = "/blog";
+export const UPDATE = "/blogupdate";
+export const COMMENT = "/comment";
+export const NEWBLOG = "/newblog";
+export const PROFILE = "/profile";
+export const CATEGORIES = "/categories";
